@@ -1,0 +1,44 @@
+{
+  "uploadedAsiSha256": "3F2973D122D8BC3BE182FB71D2EC0D3C3FBB54AB33E020DFB27144874819304A",
+  "byteIdenticalToUploaded": true,
+  "suites": [
+    {
+      "suite": "control_state_test",
+      "result": "passed",
+      "output": "232 behavior checks passed"
+    },
+    {
+      "suite": "input_policy_test",
+      "result": "passed",
+      "output": "94 native input boundary checks passed"
+    },
+    {
+      "suite": "control_state_fuzz",
+      "result": "passed",
+      "output": "500000 deterministic mixed-input events passed ownership/context invariants"
+    },
+    {
+      "suite": "customizer_test",
+      "result": "passed",
+      "output": "10076 customizer checks passed"
+    },
+    {
+      "suite": "press_router_test",
+      "result": "passed",
+      "output": "426111 press-router checks passed (300000 mixed transitions/events)"
+    },
+    {
+      "suite": "key_argument_test",
+      "result": "passed",
+      "output": "261963 native-key lifetime checks passed (100000 mixed argument transfers)"
+    },
+    {
+      "suite": "editor_workflow_test",
+      "result": "passed",
+      "output": "419 editor workflow and preset checks passed"
+    }
+  ],
+  "version": "0.2.1",
+  "asiSha256": "3F2973D122D8BC3BE182FB71D2EC0D3C3FBB54AB33E020DFB27144874819304A",
+  "compiler": "g++.exe (GCC) 16.2.0"
+}

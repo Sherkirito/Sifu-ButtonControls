@@ -1,0 +1,30 @@
+{
+  "files": [
+    {
+      "sha256": "D6285A478FBE390A6FC92AC38C073AAAE561B0ADE4EC8F73686BD025A6A65342",
+      "source": "runtime/dxgi.dll",
+      "target": "Sifu/Binaries/Win64/dxgi.dll"
+    },
+    {
+      "sha256": "EA91F0CE79C1CB53F50AABE272A7138625AF6751BD265183E7EB0097CEECD86F",
+      "source": "runtime/OptiScaler.ini",
+      "target": "Sifu/Binaries/Win64/OptiScaler.ini"
+    },
+    {
+      "sha256": "3F2973D122D8BC3BE182FB71D2EC0D3C3FBB54AB33E020DFB27144874819304A",
+      "source": "runtime/SifuButtonControls.asi",
+      "target": "Sifu/Binaries/Win64/OptiScaler/plugins/SifuButtonControls.asi"
+    },
+    {
+      "sha256": "2C689486A1B51A6B85BA44ADE06FD9F6A07F69DDA1643B687E908FC7512025DF",
+      "source": "runtime/ButtonControls.ini",
+      "target": "Sifu/Binaries/Win64/OptiScaler/plugins/ButtonControls.ini"
+    },
+    {
+      "sha256": "AEE592BE30516B97CBB763DAEF52996C39588A017F0D139AA6945F9B83A59DAF",
+      "source": "runtime/ButtonControls_P.pak",
+      "target": "Sifu/Content/Paks/~mods/ButtonControls_P.pak"
+    }
+  ],
+  "version": "0.2.1"
+}

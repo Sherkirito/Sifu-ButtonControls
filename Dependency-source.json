@@ -1,0 +1,93 @@
+{
+  "component": "OptiScaler ASI loading component",
+  "version": "10.0.0-pre1 (20261019)",
+  "commit": "1db5042aa57425d59ac979b20d43eea0053a15a5",
+  "license": "GPL-3.0",
+  "release": "https://github.com/optiscaler/OptiScaler-nightly/releases/tag/nightly-20261019",
+  "binaryArchive": "https://github.com/optiscaler/OptiScaler-nightly/releases/download/nightly-20261019/OptiScaler_v10.0.0-pre1_20261019.7z",
+  "archiveSha256": "9C9E7708E7F5EADE5B14495FA2D05A7340D2009539801A7605AA47C153DE3166",
+  "dllSha256": "D6285A478FBE390A6FC92AC38C073AAAE561B0ADE4EC8F73686BD025A6A65342",
+  "sourceArchive": "https://github.com/optiscaler/OptiScaler/archive/1db5042aa57425d59ac979b20d43eea0053a15a5.zip",
+  "sourceRepository": "https://github.com/optiscaler/OptiScaler",
+  "submodules": [
+    {
+      "path": "external/simpleini",
+      "commit": "6048871ea9ee0ec24be5bd099d161a10567d7dc2",
+      "notices": [
+        "simpleini-LICENCE.txt"
+      ],
+      "repository": "https://github.com/brofield/simpleini",
+      "sourceArchive": "https://github.com/brofield/simpleini/archive/6048871ea9ee0ec24be5bd099d161a10567d7dc2.zip"
+    },
+    {
+      "path": "external/unordered_dense",
+      "commit": "73f3cbb237e84d483afafc743f1f14ec53e12314",
+      "notices": [
+        "unordered_dense-LICENSE"
+      ],
+      "repository": "https://github.com/martinus/unordered_dense",
+      "sourceArchive": "https://github.com/martinus/unordered_dense/archive/73f3cbb237e84d483afafc743f1f14ec53e12314.zip"
+    },
+    {
+      "path": "external/xess",
+      "commit": "8fe81bdbbaf00b3c1b733fd0d830c333dc84e6f0",
+      "notices": [
+        "xess-LICENSE.txt"
+      ],
+      "repository": "https://github.com/intel/xess",
+      "sourceArchive": "https://github.com/intel/xess/archive/8fe81bdbbaf00b3c1b733fd0d830c333dc84e6f0.zip"
+    },
+    {
+      "path": "external/vulkan",
+      "commit": "d64e9e156ac818c19b722ca142230b68e3daafe3",
+      "notices": [
+        "vulkan-LICENSE.md"
+      ],
+      "repository": "https://github.com/KhronosGroup/Vulkan-Headers",
+      "sourceArchive": "https://github.com/KhronosGroup/Vulkan-Headers/archive/d64e9e156ac818c19b722ca142230b68e3daafe3.zip"
+    },
+    {
+      "path": "external/spdlog",
+      "commit": "faa0a7a9c5a3550ed5461fab7d8e31c37fd1a2ef",
+      "notices": [
+        "spdlog-LICENSE"
+      ],
+      "repository": "https://github.com/gabime/spdlog",
+      "sourceArchive": "https://github.com/gabime/spdlog/archive/faa0a7a9c5a3550ed5461fab7d8e31c37fd1a2ef.zip"
+    },
+    {
+      "path": "external/FidelityFX-SDK",
+      "commit": "c6efa6bf7f2027b3ec94f28578bb5965eabb9e55",
+      "notices": [
+        "FidelityFX-SDK-LICENSE.txt"
+      ],
+      "repository": "https://github.com/GPUOpen-LibrariesAndSDKs/FidelityFX-SDK",
+      "sourceArchive": "https://github.com/GPUOpen-LibrariesAndSDKs/FidelityFX-SDK/archive/c6efa6bf7f2027b3ec94f28578bb5965eabb9e55.zip"
+    },
+    {
+      "path": "external/magic_enum",
+      "commit": "a733a2ea665ca5d72b7270f0334bf2e7b82bd0cc",
+      "notices": [
+        "magic_enum-LICENSE"
+      ],
+      "repository": "https://github.com/Neargye/magic_enum",
+      "sourceArchive": "https://github.com/Neargye/magic_enum/archive/a733a2ea665ca5d72b7270f0334bf2e7b82bd0cc.zip"
+    },
+    {
+      "path": "external/FidelityFX-SDK-v2",
+      "commit": "60f4ea81909200d8542eca14dccb2628b763a9a3",
+      "notices": [],
+      "repository": "https://github.com/GPUOpen-LibrariesAndSDKs/FidelityFX-SDK",
+      "sourceArchive": "https://github.com/GPUOpen-LibrariesAndSDKs/FidelityFX-SDK/archive/60f4ea81909200d8542eca14dccb2628b763a9a3.zip"
+    },
+    {
+      "path": "external/nvapi",
+      "commit": "9b181ea572f680327fe01a14a0f1f41c78034104",
+      "notices": [
+        "nvapi-License.txt"
+      ],
+      "repository": "https://github.com/NVIDIA/nvapi",
+      "sourceArchive": "https://github.com/NVIDIA/nvapi/archive/9b181ea572f680327fe01a14a0f1f41c78034104.zip"
+    }
+  ]
+}
